@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin:50px;
+    background-color:black ; 
+}
+.heading{
+    color:white;
+}
+div.introduction p,h3,h1{
+    color:white;
+    background-color: ;
+}
+div.profession{
+    color:white;
+    /* font-size:; */
+    height: 20px;
+    width: 50px;
+}
+div.image{
+    /* float:top; */
+    /* height:50px;
+    width:50px; */
+    float: right;
+    margin:50px;
+}
+.fancy{
+    color:white;
+}
+img{
+    width: 500px;
+    height:100 px;
+    left: 100px;
+}
+nav{
+    color:white;
+    margin:10px;
+}
+
+.navi{
+    margin:1px;
+    padding:50px;
+}
+footer{
+    text-align: center;
+}
